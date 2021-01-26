@@ -4,8 +4,8 @@ This repository is created as a part of the IBM Applied Data Science Capstone - 
 
 The first map contains the visualization of the various neighbourhoods in Toronto, Canada.
 
-![](Images/Toronto_Neighborhoods.jpg)
+![](Images/Toronto_Neighborhoods.JPG)
 
 The second map contains the clusters of neighbourhoods of Toronto, basis the most common venue categories fetched using FourSquare API
 
-![](Images/Toronto_Clusters.jpg)
+![](Images/Toronto_Clusters.JPG)
